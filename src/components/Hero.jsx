@@ -12,9 +12,9 @@ function Hero() {
           <Typed
             className='md:text-2xl sm:text-[20px] text-[13px] font-bold pl-2 text-[#cccccc]'
             strings={[
-              'confidentiality',
-              'integrity',
-              'availablity',
+              'Confidentiality',
+              'Integrity',
+              'Availability',
             ]}
             typeSpeed={120}
             backSpeed={140}

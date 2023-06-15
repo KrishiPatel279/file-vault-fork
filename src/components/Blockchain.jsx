@@ -1,5 +1,5 @@
 import {} from 'react'
-import BlockchainImg from '../assets/Blockchain.png'
+import BlockchainImg from '/home/krishi/Desktop/file-vault-fork/src/assets/blockchain.png'
 
 function Blockchain() {
   return (
